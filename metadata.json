@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Curso Marketing Digital",
+  "description": "Landing page interativa e totalmente personalizável para o portal de crédito HCred operado pela Grifos Capital Ltda, apresentando simulador de parcelas em tempo real, soluções de FGTS/Consignado, FAQ e formulário de inscrição seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
