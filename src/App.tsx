@@ -3,7 +3,6 @@ import { CompanyConfig } from './types';
 import Solutions from './components/Syllabus';
 import LeadForm from './components/LeadForm';
 import Faq from './components/Faq';
-import Customizer from './components/Customizer';
 import {
   TrendingUp,
   Phone,
@@ -1159,13 +1158,6 @@ export default function App() {
           </motion.div>
         )}
       </AnimatePresence>
-
-      {/* ADMIN CUSTOMIZER COMPONENT */}
-      <Customizer
-        config={config}
-        onChange={setConfig}
-        onReset={handleResetConfig}
-      />
     </div>
   );
 }
